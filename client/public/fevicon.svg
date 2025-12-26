@@ -1,0 +1,25 @@
+<svg width="512" height="512" viewBox="0 0 512 512"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- White circular base -->
+  <circle cx="256" cy="256" r="248" fill="white"/>
+
+  <!-- Signature lightning / AI mark -->
+  <path d="
+    M300 92
+    C310 92 315 104 308 114
+    L225 238
+    H286
+    L252 382
+    C249 396 266 402 276 388
+    L360 262
+    H300
+    L324 118
+    C328 104 316 92 300 92
+    Z"
+    fill="black"/>
+
+  <!-- Intelligence spark -->
+  <circle cx="270" cy="260" r="10" fill="white"/>
+
+</svg>
